@@ -3,3 +3,5 @@
 ### https://jquery.com/
 ## Courses
 ### https://www.codecademy.com/learn/learn-jquery
+## Books
+### https://www.syncfusion.com/ebooks/jquery
