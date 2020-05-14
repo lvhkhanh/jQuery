@@ -3,6 +3,7 @@
 ### https://jquery.com/
 ## Courses
 ### https://www.codecademy.com/learn/learn-jquery
+### https://www.udacity.com/course/intro-to-jquery--ud245
 ### https://www.w3schools.com/jquery/
 ## Books
 ### https://www.syncfusion.com/ebooks/jquery
