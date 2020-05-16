@@ -1,6 +1,13 @@
 # jQuery
 ## Official
 ### https://jquery.com/
+### https://api.jquery.com/
+### https://api.jquery.com/
+### https://code.jquery.com/
+### https://learn.jquery.com/
+### https://jqueryui.com/
+### https://jqueryui.com/demos/
+### https://jquerymobile.com/
 ## Courses
 ### https://www.codecademy.com/learn/learn-jquery
 ### https://www.udacity.com/course/intro-to-jquery--ud245
@@ -9,3 +16,4 @@
 ### https://www.syncfusion.com/ebooks/jquery
 ## Links
 ### http://youmightnotneedjquery.com/
+### https://en.wikipedia.org/wiki/JQuery
