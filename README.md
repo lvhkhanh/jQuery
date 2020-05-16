@@ -9,7 +9,7 @@
 ### https://jqueryui.com/demos/
 ### https://jquerymobile.com/
 ## Courses
-### https://www.codecademy.com/learn/learn-jquery
+### https://www.codecademy.com/learn/learn-jquery [KhanhLVH](https://www.codecademy.com/profiles/KhanhLVH)
 ### https://www.udacity.com/course/intro-to-jquery--ud245
 ### https://www.w3schools.com/jquery/
 ## Books
