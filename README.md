@@ -8,6 +8,11 @@
 ### https://jqueryui.com/
 ### https://jqueryui.com/demos/
 ### https://jquerymobile.com/
+## Performance
+### create variable for reuse
+### use chain method
+### process outside of loop
+### detach if need
 ## Courses
 ### https://www.codecademy.com/learn/learn-jquery [KhanhLVH](https://www.codecademy.com/profiles/KhanhLVH)
 ### https://www.udacity.com/course/intro-to-jquery--ud245
